@@ -1,6 +1,6 @@
-const phone_number = "83105 58509";
+const phone_number = "9380922284";
 const email = "";
-const whatsapp_number = "83105 58509";
+const whatsapp_number = "9380922284";
 const company_name = "Kerala Veda Consult";
 const person_name = "Kerala Veda Consult";
 const address = {
